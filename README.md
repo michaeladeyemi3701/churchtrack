@@ -56,3 +56,10 @@ A full-featured, cloud-based church management system built specifically for Nig
 | Fonts | Google Fonts (Playfair Display, DM Sans) |
 
 ## Project Structure
+## Installation
+
+### Option 1: Clone and Run Locally
+```bash
+git clone https://github.com/michaeladeyemi3701/churchtrack.git
+cd churchtrack
+# Open index.html in your browser
